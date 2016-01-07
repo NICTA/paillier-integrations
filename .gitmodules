@@ -1,6 +1,6 @@
 [submodule "javallier"]
 	path = javallier
-	url = git@github.com:NICTA/javallier.git
+	url = https://github.com/NICTA/javallier.git
 [submodule "python-paillier"]
 	path = python-paillier
-	url = git@github.com:NICTA/python-paillier
+	url = https://github.com/NICTA/python-paillier.git
